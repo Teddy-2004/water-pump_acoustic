@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# os
+.DS_Store
+
+# scratch/testing (not part of the deliverable)
+retrain_test/
+data/incoming/*
+!data/incoming/.gitkeep
