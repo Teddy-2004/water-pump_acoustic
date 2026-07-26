@@ -2,7 +2,7 @@
 
 **Predicting rural water pump functionality from sound — an extension of *Predicting Rural Water Point Functionality in Tanzania* (Intro to ML Summative) into a non-tabular (audio) modality.**
 
-- 🎥 **Video Demo:** _[add your YouTube link here]_
+- 🎥 **Video Demo:** [https://youtu.be/TWrUYylLyXI]
 - 🌐 **Live API URL:** https://water-pump-acoustic.onrender.com (Swagger docs: https://water-pump-acoustic.onrender.com/docs)
 - 🖥️ **Live UI URL:** https://water-pump-acoustic-1.onrender.com
 - 📓 **Original tabular summative:** https://github.com/Teddy-2004/water-pump_project
